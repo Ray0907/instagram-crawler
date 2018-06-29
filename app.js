@@ -11,5 +11,5 @@ http.createServer(app).listen(PORT, () => {
 
 app.get('/crawler/user/info', IGModule.UserInfo)
 app.get('/', function(req,res){
-    res.send('hello')
+    res.send('Connection successful !!!')
 })

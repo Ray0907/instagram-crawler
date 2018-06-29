@@ -1,2 +1,2 @@
 # node instagram crawler demo
-![image](http://recordit.co/LiQGORlxXI.gif)
+![image](http://recordit.co/DQPOLlGgaZ.gif)
